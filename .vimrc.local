@@ -1,0 +1,4 @@
+set number
+set nolist
+colorscheme babymate256
+let g:go_fmt_command = "goimports"
